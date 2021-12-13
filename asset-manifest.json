@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coalition-modals/static/css/main.05fe0212.chunk.css",
+    "main.js": "/coalition-modals/static/js/main.4e454b5d.chunk.js",
+    "main.js.map": "/coalition-modals/static/js/main.4e454b5d.chunk.js.map",
+    "runtime-main.js": "/coalition-modals/static/js/runtime-main.2b0c41fe.js",
+    "runtime-main.js.map": "/coalition-modals/static/js/runtime-main.2b0c41fe.js.map",
+    "static/js/2.fcd3bbda.chunk.js": "/coalition-modals/static/js/2.fcd3bbda.chunk.js",
+    "static/js/2.fcd3bbda.chunk.js.map": "/coalition-modals/static/js/2.fcd3bbda.chunk.js.map",
+    "static/js/3.56d0b466.chunk.js": "/coalition-modals/static/js/3.56d0b466.chunk.js",
+    "static/js/3.56d0b466.chunk.js.map": "/coalition-modals/static/js/3.56d0b466.chunk.js.map",
+    "index.html": "/coalition-modals/index.html",
+    "static/css/main.05fe0212.chunk.css.map": "/coalition-modals/static/css/main.05fe0212.chunk.css.map",
+    "static/js/2.fcd3bbda.chunk.js.LICENSE.txt": "/coalition-modals/static/js/2.fcd3bbda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b0c41fe.js",
+    "static/js/2.fcd3bbda.chunk.js",
+    "static/css/main.05fe0212.chunk.css",
+    "static/js/main.4e454b5d.chunk.js"
+  ]
+}
