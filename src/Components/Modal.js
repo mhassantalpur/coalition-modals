@@ -1,5 +1,6 @@
 import React from 'react'
 import "./Modal.css";
+import ShowModalBtn from './ShowModalBtn';
 
 const Modal = ({closeModal}) => {
   return (
@@ -13,7 +14,7 @@ const Modal = ({closeModal}) => {
           <p>having a transparent body is kinda cool</p>
         </div>
         <div className='footer'>
-          <button>Make a modal</button>
+          <ShowModalBtn />
           <button className='cancelBtn' onClick={() => closeModal(false)}>Close modal</button>
         </div>
       </div>
